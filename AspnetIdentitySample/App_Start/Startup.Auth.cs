@@ -34,6 +34,8 @@ namespace AspnetIdentitySample
             //   appSecret: "");
 
             //app.UseGoogleAuthentication();
+            //   appId: "604281819071-up32ar5bospv68239hmm575d8sdml0mu.apps.googleusercontent.com",
+            //   appSecret: "wHkTGUi6BbLdKbpSJtqaa8kZ");
         }
     }
 }
